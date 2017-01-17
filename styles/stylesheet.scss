@@ -1,0 +1,36 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background: RGBA(25, 34, 39, 1.00);
+}
+
+.const-img{
+	width: 100vw;
+	height: 100vh;
+	background: url(../images/const-img.jpg) no-repeat center center fixed;
+	background-size: cover;
+}
+
+.const-mca{
+	width: 100vw;
+	height: 93vh;
+	border: .001px solid rgba(5, 0, 0, 1.00);
+	background: rgba(5, 0, 0, 1.00);
+	text-align: center;
+	color: #fff;
+}
+
+h3{
+	margin: 44vh;	
+}
+
+.footer{
+	width: 100vw;	
+	height: 7vh;
+	color: #fff;
+	text-align: center;
+	background: rgba(5, 0, 0, 1.00);
+}
