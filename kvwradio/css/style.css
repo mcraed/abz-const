@@ -1,0 +1,203 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Lato', sans-serif;
+}
+
+.h-img{
+	width: 100vw;
+	height: 20vh;
+	background: url('../media/venuestripe.jpeg');
+	background-size: cover;
+}
+
+.h-content{
+	width: 100vw;
+	height: 8vh;
+	background: #000000;
+	padding: 1vh 0;
+}
+
+.ls-logo{
+	width: 3.3em;
+	height: 3.3em;
+	margin: 0em 1em 0em 2em;
+	float: left;
+}
+
+.home-link h1{
+	font-size: 2.6em;
+	color: #FFFFFF;
+	/*font-family: 'Lato', sans-serif;*/
+}
+
+.h-stripe{
+	width: 100vw;
+	height: 2em;
+	text-align: center;
+	background: #FF5E00;
+	color: #EFEFEC;
+}
+
+.mca{
+	width: 100vw;
+	background: #5F8A98;
+	border-top: .001px solid #2A2B2D;
+}
+
+.mca-main{
+	width: 55vw;
+	display: inline-block;
+	float: left;
+}
+
+.latest-episode{
+	width: 50vw;
+	height: 23em;
+	margin: 3em auto 2em auto;
+}
+
+.show-promo{
+	width: 45vw;
+	height: 23.5em;
+	margin: 2em auto 4em auto;
+	border-radius: 2px;
+}
+
+.sc-epi{
+	width: 50vw;
+	margin: 2.5em auto 2em auto;
+	border: 2px solid RGBA(42, 43, 45, 1.00);
+	border-radius: 3px;
+}
+
+.ep4-sc-head{
+	background-image: url('../media/ep4sc.jpg');
+	background-size: cover;
+}
+
+.ep3-sc-head{
+	background-image: url('../media/ep3sc.jpg');
+	background-size: cover;
+}
+
+.ep2-sc-head{
+	background-image: url('../media/ep2sc.jpg');
+	background-size: cover;
+}
+
+.sc-head{
+	text-align: center;
+	border: .001px solid RGBA(42, 43, 45, 1.00);
+}
+
+.sc-prev{
+	cursor: pointer;
+}
+
+.ep1-sc-head{
+	background-image: url('../media/filler.jpg');
+	background-size: cover;
+}
+
+.sc-head-color{
+	width: 100%;
+	height: 100%;
+	border-radius: 5px;
+}
+
+.ep1-sc-head-color{
+	background: RGBA(49, 98, 22, .3);
+}
+
+.sc-head img{
+	width: 4.5em;
+	height: 4.5em;
+	margin: 1em 1em 0em 3em;
+}
+
+.sc-head h1{
+	display: inline-block;
+	margin: 0em 1.5em 1vh 0em;
+	padding: .2em;
+	font-size: 2.2em;
+	background: RGBA(41, 47, 51, .35);
+	color: RGBA(255, 252, 242, 1.00);	
+}
+
+.sc-ul{
+	background: RGBA(41, 47, 51, 1.00);
+	text-align: center;
+	padding: 1em;
+}
+
+.sc-ul ul{
+	list-style: none;
+}
+
+.sc-ul a{
+	text-decoration: none;
+	color: RGBA(255, 252, 242, 1.00);
+	font-size: 1.3em;
+}
+
+.sc-ul a:hover{
+	font-size: 1.5em;
+}
+
+.about{
+	width: 38vw;
+	margin: 1em auto 1em auto;
+	padding: 1em;
+	background: RGBA(255, 252, 242, .85);
+	border: 3px solid #0D668D;
+	border-radius: 2px;
+}
+
+.abt-head{
+	font-size: 2em;
+	margin: .5em;
+	font-family: 'Montserrat', sans-serif;
+	border-bottom: 1.5px solid #E4572E;
+}
+
+.about p{
+	font-size: 1.4em;
+}
+
+.contact{
+	width: 40vw;
+	text-align: center;
+	margin: 1em auto;
+}
+
+.imgblk{
+	width: 15vw;
+	margin: 0 auto;
+	display: block;
+}
+
+.soc-med{
+	width: 3em;
+	height: 3em;
+	margin: 2.5em auto 0 auto;
+}
+
+.sidebar{
+	width: 35vw;
+	padding: 4.5em 0 0 4em;
+	display: inline-block;
+}
+
+.footer{
+	width: 100vw;
+	height: 8vh;
+	border-top: .001px solid #2A2B2D;
+	background: #000000;
+	text-align: center;
+}
+
+.footer p{
+	color: #EFEFEC;
+	margin: 1em 0;
+}
